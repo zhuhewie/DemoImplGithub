@@ -9,5 +9,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "DemoImplGithub"
-include ':app'
+
 include ':ToastUtil'
